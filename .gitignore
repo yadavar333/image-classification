@@ -1,0 +1,8 @@
+data/
+outputs/
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.pytest_cache/
+wandb/
